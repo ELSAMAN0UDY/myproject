@@ -1,4 +1,3 @@
 for (i=0; i<10;i++){
     document.write(`<h1> counter: ${i}</h1>`)
-}
-alert("wellcome mahmoued");
+};
